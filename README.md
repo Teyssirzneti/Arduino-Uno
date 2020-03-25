@@ -5,7 +5,7 @@ Silahkan dipelajari scriptnya, bukan dicopas mentah-mentah!
 
 Apa saja yang dibutuhkan?
 
-- Proteus 8 Professsional
+- Proteus
 - Arduino
 - Kretivitas dalam merancang rangkaian
 - Improvisasi (Penting!)
